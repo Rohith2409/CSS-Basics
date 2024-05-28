@@ -1,0 +1,8 @@
+This file contains git commands 
+
+They are :
+git init : To initialize the repository
+git add : To add the required files into the git 
+git commit -m : To commit the selected files and add a proper message to them
+git push : To push the files into git
+git pull : To pull the updated files from the git
